@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = git@github.com:newcastleuniversity-computing/c0044437_csc1034_resit2022.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "github"]
+	url = https://github.com/c0044437/csc1034-resit-21-22-august.git
+	fetch = +refs/heads/*:refs/remotes/github/*
